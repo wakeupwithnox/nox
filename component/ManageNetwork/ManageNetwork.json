@@ -1,0 +1,8 @@
+{
+    "ssid": "freebox-lca",
+    "pass": "mapassphrase",
+    "interface_name_wifi": "wlan0",
+    "interface_name_ethernet": "eth0",
+    "interface_name_used": "eth0",
+    "connexion_mode": "2"
+}

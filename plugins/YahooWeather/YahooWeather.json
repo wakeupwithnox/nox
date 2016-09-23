@@ -1,0 +1,12 @@
+{
+    "country": "france",
+    "town": "pluneret",
+    "resultformat": "json",
+    "plugin": "YahooWeather",
+    "type": "internet",
+    "schedule": { 
+        "id" : "sched_YahooWeather",
+        "mode" : "cron",
+        "trigger" : "6,9,12,15,18,21"
+        }
+}

@@ -1,0 +1,10 @@
+{
+    "temperature": "12",
+    "min_temperature": "11",
+    "weather_icon": "34",
+    "humidity": "91",
+    "weather_context": "Partly Cloudy",
+    "sunrise": "7:30 am",
+    "sunset": "8:53 pm",
+    "max_temperature": "25"
+}

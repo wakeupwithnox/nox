@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="192.168.0.11//feg/" local="130635570252671899" remote="130643647340000000" Dst="1" />
+<file name=".scrutinizer.yml" server="192.168.0.11//feg/" local="130635570247251589" remote="130643647340000000" Dst="1" />
+<file name=".travis.yml" server="192.168.0.11//feg/" local="130635570266042664" remote="130643647350000000" Dst="1" />
+<file name="changelog.md" server="192.168.0.11//feg/" local="130635570231200671" remote="130643647350000000" Dst="1" />
+<file name="class.phpmailer.php" server="192.168.0.11//feg/" local="130635570241031233" remote="130643647350000000" Dst="1" />
+<file name="class.pop3.php" server="192.168.0.11//feg/" local="130635570240531205" remote="130643647360000000" Dst="1" />
+<file name="class.smtp.php" server="192.168.0.11//feg/" local="130635570261612411" remote="130643647360000000" Dst="1" />
+<file name="composer.json" server="192.168.0.11//feg/" local="130635570268522806" remote="130643647360000000" Dst="1" />
+<file name="LICENSE" server="192.168.0.11//feg/" local="130635570244251418" remote="130643647360000000" Dst="1" />
+<file name="PHPMailerAutoload.php" server="192.168.0.11//feg/" local="130635570254912027" remote="130643647370000000" Dst="1" />
+<file name="README.md" server="192.168.0.11//feg/" local="130635570263552522" remote="130643647370000000" Dst="1" />
+<file name="travis.phpunit.xml.dist" server="192.168.0.11//feg/" local="130635570257162156" remote="130643647370000000" Dst="1" />
+<file name="VERSION" server="192.168.0.11//feg/" local="130635570248341652" remote="130643647370000000" Dst="1" />
+</dwsync>

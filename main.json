@@ -1,0 +1,20 @@
+{
+	"AppPath" :	"",
+    "plugins" : {
+		"enable" : {
+		    "YahooWeather" : {
+		      "category" : "weather"
+		      }
+	       }
+	   },
+	"component": {
+        "enable": {
+            "Device": {
+                "category": "device"
+            },
+            "ManageNetwork": {
+                "category": "managenetwork "
+            }
+        }
+    }
+}
