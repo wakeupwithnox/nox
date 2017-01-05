@@ -4,5 +4,6 @@
     "interface_name_wifi": "wlan0",
     "interface_name_ethernet": "eth0",
     "interface_name_used": "eth0",
-    "connexion_mode": "2"
+    "interfaceStatus": 1,
+    "connexion_mode": 2
 }

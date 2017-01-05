@@ -1,10 +1,8 @@
-{
-	"name":	"Nox",
-    "language": "fr",
-	"theme_path": "theme/nox_blue_black/",
+{ 	"name":	"Nox",
+    "lang": "fr",
+	"themePath": "nox_blue_black/",
 	"connexion_mode": 1,
-	"format_tt": "24",
-	"format_hour": "",
+	"formatTT": "24",
+	"formatDate": "dd/mm/yyyy",
 	"timezone": "Europe/Paris"
-	
 }

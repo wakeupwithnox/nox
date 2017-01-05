@@ -1,9 +1,21 @@
-"LocalPlanner": {
-	"monday": "7:00",
-	"thuesday": "7:00",
-	"wednesday": "7:00",
-	"thursday": "7:00",
-	"friday": "7:00",
-	"saturday": "9:00",
-	"sunday": "9:00"
+{
+    "plannerUser1": {
+        "monday": "06:00",
+        "thuesday": "07:00",
+        "wednesday": "08:00",
+        "thursday": "09:00",
+        "friday": "10:00",
+        "saturday": "11:00",
+        "sunday": "12:00"
+    },
+
+    "plannerUser2": {
+        "monday": "06:00",
+        "thuesday": "07:00",
+        "wednesday": "08:00",
+        "thursday": "09:00",
+        "friday": "10:00",
+        "saturday": "11:00",
+        "sunday": "12:00"
+    }
 }

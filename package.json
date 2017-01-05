@@ -1,0 +1,25 @@
+{
+  "name": "nox",
+  "version": "1.0.0",
+  "description": "Code source du reveil nox",
+  "main": "server.js",
+  "dependencies": {
+    "hapi": "^16.0.2",
+    "inert": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lecrepier@github.com/wakeupwithnox/nox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakeupwithnox/nox/issues"
+  },
+  "homepage": "https://github.com/wakeupwithnox/nox#readme"
+}

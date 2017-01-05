@@ -1,4 +1,3 @@
 <?php
-require_once("./classes/ini.class.php");
-require_once("./classes/fonction.php");
+require_once("..\component\Device\Device.php");
 ?>

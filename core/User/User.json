@@ -1,0 +1,18 @@
+{
+    "user1": {
+        "status": 1,
+        "name": "Greg",
+        "avatar": "man.png",
+        "language": "fr",
+        "planner": "LocalPlanner",
+        "statusNextWakeUp": 1
+    },
+    "user2": {
+        "status": 0,
+        "name": "",
+        "avatar": "",
+        "language": "",
+        "planner": "",
+        "statusNextWakeUp": 0
+    }
+}
